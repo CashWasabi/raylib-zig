@@ -4,7 +4,7 @@
 
 Manually tweaked, auto-generated [raylib](https://github.com/raysan5/raylib) bindings for zig.
 
-Bindings tested on raylib version 5.6-dev and Zig 0.14.0
+Bindings tested on raylib version 5.6-dev and Zig 0.15.0
 
 Thanks to all the [contributors](https://github.com/raylib-zig/raylib-zig/graphs/contributors) for their help with this
 binding.
@@ -136,6 +136,6 @@ implementation stuff should be updatable with some hacks on your side.
 
 ### What needs to be done?
 
-+ _(Done)_ Set up a proper package build and a build script for the examples
-+ Port all the examples
-+ Member functions/initialisers
+* _(Done)_ Set up a proper package build and a build script for the examples
+* Port all the examples
+* Member functions/initialisers
